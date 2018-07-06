@@ -1,5 +1,4 @@
 <template>
-  <header>
     <div class="main">
       <div class="nav-ber">
         <div class="nav-top">
@@ -32,7 +31,6 @@
         </div>
       </div>
     </div>
-  </header>
 </template>
 <script>
   export default {
