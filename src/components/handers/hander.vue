@@ -6,7 +6,7 @@
       </a>
       <div class="a-nav">
         <a href="#">首页</a>
-        <a href="#">啊xxx啊</a>
+        <a href="#">啊啊</a>
         <a href="#">啊啊</a>
         <a href="#">啊啊</a>
         <a href="#">啊啊</a>
