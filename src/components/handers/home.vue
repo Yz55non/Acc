@@ -8,7 +8,6 @@
 <script>
   import hander from "../../components/handers/hander";
   import foot from "../../components/handers/foot";
-
   export default {
     components: {
       'v-hander': hander,
