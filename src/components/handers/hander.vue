@@ -5,14 +5,12 @@
         <img src="../../assets/image/hander/logo-new.png" alt="" class="logo-img">
       </a>
       <div class="a-nav">
-        <a href="#">首页</a>
-        <a href="#">啊啊</a>
-        <a href="#">啊啊</a>
-        <a href="#">啊啊</a>
-        <a href="#">啊啊</a>
-        <a href="#">啊啊</a>
-        <a href="#">啊啊</a>
-        <a href="#">啊啊</a>
+        <a href="#">主页</a>
+        <a href="#">日漫</a>
+        <a href="#">国创</a>
+        <a href="#">原创</a>
+        <a href="#">论坛</a>
+        <a href="#">好评榜</a>
       </div>
       <div class="nav-login">
         <a href="#">登录</a>

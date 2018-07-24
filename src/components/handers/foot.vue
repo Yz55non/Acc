@@ -14,46 +14,46 @@
             <a href="#">网站介绍</a>
           </li>
           <li>
-            <a href="#">网站介绍</a>
+            <a href="#">关于网站</a>
           </li>
           <li>
-            <a href="#">网站介绍</a>
+            <a href="#">作者简介</a>
           </li>
         </ul>
         <ul class="uls">
           <li>
+            <a href="#">E-mail</a>
+          </li>
+         <!-- <li>
             <a href="#">网站介绍</a>
           </li>
           <li>
             <a href="#">网站介绍</a>
-          </li>
-          <li>
-            <a href="#">网站介绍</a>
-          </li>
+          </li>-->
         </ul>
       </div>
       <div class="foot-conment border-left">
         <p>漫网连接</p>
         <ul>
           <li>
-            <a href="#">网站介绍</a>
+            <a href="https://www.bilibili.com/">哔哩哔哩</a>
           </li>
           <li>
-            <a href="#">网站介绍</a>
+            <a href="https://www.dmzj.com/">动漫之家</a>
           </li>
           <li>
-            <a href="#">网站介绍</a>
+            <a href="https://www.zymk.cn/">知音漫客</a>
           </li>
         </ul>
         <ul class="uls">
           <li>
-            <a href="#">网站介绍</a>
+            <a href="http://ac.qq.com/">腾讯动漫</a>
           </li>
           <li>
-            <a href="#">网站介绍</a>
+            <a href="http://www.manhuatai.com/">漫画台</a>
           </li>
           <li>
-            <a href="#">网站介绍</a>
+            <a href="http://www.dm5.com/">动漫屋</a>
           </li>
         </ul>
       </div>
