@@ -29,6 +29,45 @@
             </div>
           </div>
         </div>
+        <div class="topTheme_nav">
+          <div class="topTheme_nav_in">
+            <ul class="topTheme_nav_li">
+              <li>
+                <a href="#">首页</a>
+              </li>
+              <li>
+                <a href="#">少年</a>
+              </li>
+              <li>
+                <a href="#">少女</a>
+              </li>
+              <li>
+                <a href="#">冒险</a>
+              </li>
+              <li>
+                <a href="#">搞笑</a>
+              </li>
+              <li>
+                <a href="#">奇幻</a>
+              </li>
+              <li>
+                <a href="#">最新更新</a>
+              </li>
+              <li>
+                <a href="#">排行榜</a>
+              </li>
+              <li>
+                <a href="#">全部漫画</a>
+              </li>
+              <li>
+                <a href="#">专题</a>
+              </li>
+            </ul>
+            <div class="topTheme_nav_inr">
+              <a href="#">上传作品</a>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>

@@ -4,19 +4,22 @@
   margin: 0px;
   padding: 0px;
 }
+
 a {
   text-decoration: none;
   cursor: pointer;
   outline: 0;
 }
-div{
+
+div {
   display: block;
 }
+
 .index-main {
   width: 100%;
   min-width: 1580px;
   overflow: hidden;
-  .index-topTheme{
+  .index-topTheme {
     width: 1580px;
     min-width: 1580px;
     margin: 0 auto;
@@ -24,57 +27,56 @@ div{
     background: #fff url("https://static.dmzj.com/public/images/mh_bg.jpg") no-repeat top center;
     background-size: 100% auto;
     min-height: 2000px;
-    .topTheme{
+    .topTheme {
       width: 100%;
       //overflow: hidden;
-      .topTheme_inner{
+      .topTheme_inner {
         position: relative;
         width: 100%;
         margin: 0 auto;
         //overflow: hidden;
-        .acc-logo{
+        .acc-logo {
           float: left;
           width: 235px;
           height: 150px;
-          margin-top: 10px;
-          margin-left: 20px;
-          a{
+          margin: 10px 0 10px 10px;
+          a {
             display: block;
             width: 150px;
             height: 150px;
             background: url("../../assets/image/bukaniang.gif") no-repeat center;
           }
         }
-        .topTheme_in_search{
+        .topTheme_in_search {
           min-width: 925px;
           width: 925px;
           height: 150px;
           position: absolute;
           right: 150px;
-          .topTheme_in_search_input{
+          .topTheme_in_search_input {
             float: left;
             width: 440px;
             height: 45px;
             margin-top: 50px;
-            .topTheme_search_input{
+            .topTheme_search_input {
               width: 440px;
               height: 49px;
               background: url("../../assets/image/theme_tb.png") no-repeat 0 -184px;
               position: relative;
               z-index: 20;
-              form{
+              form {
                 display: block;
                 margin-top: 0;
-                .search_input{
+                .search_input {
                   float: left;
                   height: 42px;
                   width: 357px;
                   border: none;
-                  color: rgb(50,50,50);
+                  color: rgb(50, 50, 50);
                   padding-left: 10px;
                   margin: 3px 0 3px 4px;
                 }
-                .search_submit{
+                .search_submit {
                   float: right;
                   width: 66px;
                   height: 42px;
@@ -85,27 +87,27 @@ div{
                 }
               }
             }
-            ul li{
+            ul li {
               list-style: none;
               float: left;
               display: inline-block;
               padding: 5px;
               font-size: 12px;
-              a{
+              a {
                 text-decoration: none;
-                color:#000011;
+                color: #000011;
               }
             }
           }
-          .topTheme_cloud{
+          .topTheme_cloud {
             position: absolute;
             top: 8px;
             right: 265px;
             width: 172px;
             height: 92px;
             background: url("../../assets/image/clode.png") no-repeat;
-            p{
-              a{
+            p {
+              a {
                 display: block;
                 width: 116px;
                 height: 70px;
@@ -117,8 +119,67 @@ div{
           }
         }
       }
+      .topTheme_nav {
+        width: 100%;
+        height: 50px;
+        background: url("../../assets/image/nav_bg.png") no-repeat;
+        box-shadow: 0px 2px 1px #a4c3d0;
+        -webkit-box-shadow: 0px 2px 1px #a4c3d0;
+        .topTheme_nav_in {
+          height: 50px;
+          position: relative;
+          z-index: 1;
+          width: 1350px;
+          margin: 0 auto;
+          ul {
+            list-style: none;
+            li {
+              display: inline-block;
+            }
+          }
+          .topTheme_nav_li {
+            float: left;
+            width: 1068.75px;
+            li {
+              text-align: -webkit-match-parent;
+              a:hover {
+                background: #dcedfa;
+                color: #0f6bac;
+                font-weight: bold;
+              }
+              a {
+                display: inline-block;
+                text-align: center;
+                //height: 50px;
+                padding: 15px 22px;
+                color: #ffffff;
+                font-size: 16px;
+                outline: 0;
+                //width: 106.875px;
+              }
+            }
+          }
+          .topTheme_nav_inr{
+            position: absolute;
+            top: -11px;
+            right: 175px;
+            width: 195px;
+            height: 70px;
+            background: url("../../assets/image/theme_tb.png") no-repeat 0 -113px;
+            a{
+              display: block;
+              width: 195px;
+              height: 70px;
+              line-height: 70px;
+              text-align: center;
+              color: #ffffff;
+              font-size: 18px;
+            }
+          }
+        }
+      }
     }
-    .topTheme:after{
+    .topTheme:after {
       display: block;
       clear: both;
       content: " ";
@@ -128,11 +189,12 @@ div{
   }
 }
 
-.autoHeight{
+.autoHeight {
   height: auto !important;
   min-height: 0;
   height: 0;
 }
+
 .autoHeight:after {
   display: block;
   clear: both;
@@ -141,7 +203,7 @@ div{
   height: 0;
 }
 
-.border-1{
+.border-1 {
   border: 1px #66ccff solid;
 }
 
