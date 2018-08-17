@@ -159,14 +159,14 @@ div {
               }
             }
           }
-          .topTheme_nav_inr{
+          .topTheme_nav_inr {
             position: absolute;
             top: -11px;
             right: 175px;
             width: 195px;
             height: 70px;
             background: url("../../assets/image/theme_tb.png") no-repeat 0 -113px;
-            a{
+            a {
               display: block;
               width: 195px;
               height: 70px;
@@ -185,6 +185,197 @@ div {
       content: " ";
       visibility: hidden;
       height: 0;
+    }
+    .warp {
+      max-width: 1350px;
+      margin: 10px auto;
+      position: relative;
+      .warp_banner {
+        width: 1350px;
+        .banner_img {
+          height: 376px;
+          position: relative;
+          overflow: hidden;
+          float: left;
+          .banner_inner {
+            width: 1980px;
+            height: 376px;
+            position: absolute;
+            left: 0;
+            top: 0;
+            animation: myanimation 10s infinite;
+            -moz-animation: myanimation 10s infinite;
+            /* Firefox */
+            -webkit-animation: myanimation 10s infinite;
+            /* Safari and Chrome */
+            -o-animation: myanimation 10s infinite;
+            ul {
+              list-style: none;
+              li {
+                float: left;
+                width: 990px;
+                height: 376px;
+              }
+            }
+          }
+        }
+        .banner_rank {
+          height: 374px;
+          background-color: #ffffff;
+          width: 325.25px;
+          border: 1px solid #e6e6e6;
+          float: right;
+          h2 {
+            display: inline-block;
+            width: 157px;
+            height: 26px;
+            color: #1790e6;
+            font-size: 20px;
+            padding: 12px 30px 0 20px;
+            font-weight: normal;
+          }
+          .tab-option-ul {
+            list-style: none;
+            display: inline-block;
+            width: 98px;
+            height: 26px;
+            .tab-option-li {
+              display: inline-block;
+              width: 42px;
+              height: 26px;
+              line-height: 26px;
+              text-align: center;
+              font-size: 14px;
+              padding-top: 12px;
+              .tab-option {
+                display: block;
+                width: 42px;
+                height: 26px;
+                color: #333;
+              }
+              .tab-option-selected {
+                background: #3591d5;
+                color: #fff;
+              }
+            }
+          }
+          .tab-content {
+            width: 324.25px;
+            height: 335px;
+            //display: none;
+            ul {
+              width: 285.25px;
+              height: 308px;
+              padding: 10px 20px 18px 20px;
+              list-style: none;
+              display: inline-block;
+              .rank_tabs_first {
+                width: 285.25px;
+                height: 91px;
+                background: #ebeff2;
+                margin-bottom: 8px;
+                position: relative;
+                sub{
+                  position: absolute;
+                  left: 0;
+                  top:0;
+                  width: 0;
+                  height: 0;
+                  border-top: 30px solid #fe8a19;
+                  border-right: 30px solid transparent;
+                }
+                em{
+                  position: absolute;
+                  left: 0;
+                  top: -3px;
+                  color: #ffffff;
+                }
+                img{
+                  float: left;
+                  border: 1px solid #e6e6e6;
+                  width: 78px;
+                  height: 90px;
+                  top: -10px;
+                }
+                .rank_first_con{
+                  vertical-align: top;
+                  display: inline-block;
+                  width: 168px;
+                  height: 92px;
+                  padding: 7px 0 0 7px;
+                  a{
+                    color: #333333;
+                    h3{
+                      font-size: 16px;
+                      font-weight: normal;
+                      color: #333333;
+                      text-overflow: ellipsis;
+                      overflow: hidden;
+                      white-space: nowrap;
+                      word-break: keep-all;
+                      margin-bottom: 10px;
+                    }
+                  }
+                  p{
+                    color: #666;
+                    margin-top: 6px;
+                    font-size: 10px;
+                  }
+                }
+              }
+              .rank_tabs_li{
+                width: 285.25px;
+                height: 20px;
+                margin-top: 4px;
+                font-size: 12px;
+                em{
+                  display: inline-block;
+                  width: 25px;
+                  height: 18px;
+                  line-height: 18px;
+                  text-align: center;
+                  border: 1px solid #e6e6e6;
+                  margin-right: 8px;
+                  color: #808080;
+                  vertical-align: top;
+                }
+                .c_5{
+                  background: #fe8a19;
+                  border: 1px solid #fe8a19;
+                  color: #ffffff;
+                  vertical-align: top;
+                }
+                .rank_tabs_title{
+                  display: inline-block;
+                  width: 100px;
+                  height: 18px;
+                  margin-right: 28px;
+                  color: #333;
+                  text-overflow: ellipsis;
+                  white-space: nowrap;
+                  overflow: hidden;
+                  word-break: keep-all;
+                  vertical-align: top;
+                }
+                .rank_tabs_sec{
+                  display: inline-block;
+                  width: 100px;
+                  height: 20px;
+                  color: #666;
+                  text-align: right;
+                  text-overflow: ellipsis;
+                  overflow: hidden;
+                  white-space: nowrap;
+                  word-break: keep-all;
+                }
+              }
+            }
+          }
+        }
+        .widthEigLeft {
+          width: 990px;
+        }
+      }
     }
   }
 }
@@ -205,5 +396,24 @@ div {
 
 .border-1 {
   border: 1px #66ccff solid;
+}
+
+.bc-1 {
+  background-color: #66ccff;
+}
+
+.bc-2 {
+  background-color: #0f6bac;
+}
+
+@keyframes myanimation {
+  3%, 50% {
+    top: 0;
+    left: -990px;
+  }
+  0%, 53%, 100% {
+    top: 0;
+    left: 0px;
+  }
 }
 
