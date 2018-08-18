@@ -74,7 +74,17 @@
           <div class="banner_img widthEigLeft" id="outer">
             <div class="banner_inner" id="inner">
               <ul>
-                <li class="bc-1"></li>
+                <li class="bc-1">
+                    <div class="banner_img_one con_left">
+                      <span class="img_one_i cu">
+                        <a href="#" target="_blank" title="测试数据一">
+                          <div class="hoverChange ch1"></div>
+                          <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt >
+                          <p class="mh_title">暮光幻影</p>
+                        </a>
+                      </span>
+                    </div>
+                </li>
                 <li class="bc-2"></li>
               </ul>
             </div>
