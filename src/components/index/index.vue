@@ -344,6 +344,11 @@
             </div>
           </div>
         </div>
+        <div class="new_banner autoHeight">
+          <div class="new_update_l con_left border-1">
+            <div class="header-public-h"></div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
