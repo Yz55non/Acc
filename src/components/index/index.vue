@@ -9,7 +9,7 @@
           <div class="topTheme_in_search">
             <div class="topTheme_in_search_input">
               <div class="topTheme_search_input" style="outline: none">
-                <form action="#" ><!--method="post"-->
+                <form action="#"><!--method="post"-->
                   <input type="text" class="search_input" name="keywords" autocomplete="off" placeholder="请输入关键字">
                   <input type="submit" class="search_submit" id="searchBtn" name="searchBtn" value=" ">
                 </form>
@@ -70,22 +70,107 @@
         </div>
       </div>
       <div class="warp autoHeight">
-        <div class="warp_banner autoHeight" >
+        <div class="warp_banner autoHeight">
           <div class="banner_img widthEigLeft" id="outer">
             <div class="banner_inner" id="inner">
               <ul>
-                <li class="bc-1">
-                    <div class="banner_img_one con_left">
+                <li>
+                  <div class="banner_img_one con_left">
                       <span class="img_one_i cu">
                         <a href="#" target="_blank" title="测试数据一">
                           <div class="hoverChange ch1"></div>
-                          <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt >
+                          <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                          <p class="mh_title">暮光幻影</p>
+                        </a>
+                      </span>
+                  </div>
+                  <div class="banner_img_tow con_left">
+                    <div class="img_tow_fi">
+                        <span class="img_tow_fi_1 cu">
+                          <a href="#" target="_blank" title="测试数据一">
+                            <div class="hoverChange ch2"></div>
+                            <img src="https://images.dmzj.com/tuijian/228_187/180815jiuxiangyaogenvpengyou.jpg" alt>
+                            <p class="mh_title mh_titlemin">测试数据一</p>
+                          </a>
+                        </span>
+                      <span class="img_tow_fi_2 cu">
+                          <a href="#" target="_blank" title="测试数据一">
+                            <div class="hoverChange ch3"></div>
+                            <img src="https://images.dmzj.com/tuijian/228_187/180815jiuxiangyaogenvpengyou.jpg" alt>
+                            <p class="mh_title mh_titlemax">测试数据二</p>
+                          </a>
+                        </span>
+                    </div>
+                    <div class="img_two_sec">
+                        <span class="img_tow_sec_1 cu">
+                          <a href="#" title="测试数据" target="_blank">
+                            <div class="hoverChange ch4"></div>
+                            <img src="https://images.dmzj.com/tuijian/228_187/180815jiuxiangyaogenvpengyou.jpg" alt>
+                            <p class="mh_title mh_titlemax">测试数据</p>
+                          </a>
+                        </span>
+                      <span class="img_tow_sec_2 cu">
+                          <a href="#" target="_blank" title="测试数据">
+                            <div class="hoverChange ch5"></div>
+                            <img src="https://images.dmzj.com/tuijian/228_187/180815jiuxiangyaogenvpengyou.jpg" alt>
+                            <p class="mh_title mh_titlemin">测试数据</p>
+                          </a>
+                        </span>
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="banner_img_one img_b con_left">
+                     <span class="img_one_i img_b cu">
+                        <a href="#" target="_blank" title="测试数据一">
+                          <div class="hoverChange img_b ch1"></div>
+                          <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt
+                               class="img_b">
+                          <p class="mh_title">暮光幻影</p>
+                        </a>
+                      </span>
+                  </div>
+
+                  <div class="banner_img_tow img_c con_left">
+                    <div class="img_tow_con">
+                      <span class="img_tow_fi_3 cu">
+                       <a href="#" target="_blank" title="测试数据一">
+                         <div class="hoverChange ch5"></div>
+                         <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                         <p class="mh_title mh_titlemin">暮光幻影</p>
+                       </a>
+                      </span>
+                      <span class="img_tow_fi_4 cu">
+                        <a href="#" target="_blank" title="测试数据一">
+                          <div class="hoverChange ch6"></div>
+                          <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
                           <p class="mh_title">暮光幻影</p>
                         </a>
                       </span>
                     </div>
+
+                    <div class="img_tow_cen">
+                      <span class="img_tow_fi_5 cu">
+                        <a href="#" target="_blank" title="测试数据一">
+                            <div class="hoverChange ch7"></div>
+                            <img src="https://images.dmzj.com/tuijian/228_187/180815jiuxiangyaogenvpengyou.jpg" alt>
+                            <p class="mh_title mh_titlemax">测试数据二</p>
+                          </a>
+                      </span>
+                    </div>
+                  </div>
+
+                  <div class="banner_img_one img_b con_right">
+                     <span class="img_one_i img_b cu">
+                        <a href="#" target="_blank" title="测试数据一">
+                          <div class="hoverChange img_b ch1"></div>
+                          <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt
+                               class="img_b">
+                          <p class="mh_title">暮光幻影</p>
+                        </a>
+                      </span>
+                  </div>
                 </li>
-                <li class="bc-2"></li>
               </ul>
             </div>
           </div>
@@ -265,9 +350,9 @@
 </template>
 
 <script>
-    export default {
-        name: "index"
-    }
+  export default {
+    name: "index"
+  }
 </script>
 
 <style scoped lang="less">
