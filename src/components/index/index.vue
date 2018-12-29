@@ -79,7 +79,7 @@
                       <span class="img_one_i cu">
                         <a href="#" target="_blank" title="测试数据一">
                           <div class="hoverChange ch1"></div>
-                          <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                          <img src="../../assets/image/20180810232920.png" alt>
                           <p class="mh_title">暮光幻影</p>
                         </a>
                       </span>
@@ -89,14 +89,14 @@
                         <span class="img_tow_fi_1 cu">
                           <a href="#" target="_blank" title="测试数据一">
                             <div class="hoverChange ch2"></div>
-                            <img src="https://images.dmzj.com/tuijian/228_187/180815jiuxiangyaogenvpengyou.jpg" alt>
+                            <img src="../../assets/image/20180810232920.png" alt>
                             <p class="mh_title mh_titlemin">测试数据一</p>
                           </a>
                         </span>
                       <span class="img_tow_fi_2 cu">
                           <a href="#" target="_blank" title="测试数据一">
                             <div class="hoverChange ch3"></div>
-                            <img src="https://images.dmzj.com/tuijian/228_187/180815jiuxiangyaogenvpengyou.jpg" alt>
+                            <img src="../../assets/image/20180810232920.png" alt>
                             <p class="mh_title mh_titlemax">测试数据二</p>
                           </a>
                         </span>
@@ -105,14 +105,14 @@
                         <span class="img_tow_sec_1 cu">
                           <a href="#" title="测试数据" target="_blank">
                             <div class="hoverChange ch4"></div>
-                            <img src="https://images.dmzj.com/tuijian/228_187/180815jiuxiangyaogenvpengyou.jpg" alt>
+                            <img src="../../assets/image/20180810232920.png" alt>
                             <p class="mh_title mh_titlemax">测试数据</p>
                           </a>
                         </span>
                       <span class="img_tow_sec_2 cu">
                           <a href="#" target="_blank" title="测试数据">
                             <div class="hoverChange ch5"></div>
-                            <img src="https://images.dmzj.com/tuijian/228_187/180815jiuxiangyaogenvpengyou.jpg" alt>
+                            <img src="../../assets/image/20180810232920.png" alt>
                             <p class="mh_title mh_titlemin">测试数据</p>
                           </a>
                         </span>
@@ -124,7 +124,7 @@
                      <span class="img_one_i img_b cu">
                         <a href="#" target="_blank" title="测试数据一">
                           <div class="hoverChange img_b ch1"></div>
-                          <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt
+                          <img src="../../assets/image/20180810232920.png" alt
                                class="img_b">
                           <p class="mh_title">暮光幻影</p>
                         </a>
@@ -136,14 +136,14 @@
                       <span class="img_tow_fi_3 cu">
                        <a href="#" target="_blank" title="测试数据一">
                          <div class="hoverChange ch5"></div>
-                         <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                         <img src="../../assets/image/20180810232920.png" alt>
                          <p class="mh_title mh_titlemin">暮光幻影</p>
                        </a>
                       </span>
                       <span class="img_tow_fi_4 cu">
                         <a href="#" target="_blank" title="测试数据一">
                           <div class="hoverChange ch6"></div>
-                          <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                          <img src="../../assets/image/20180810232920.png" alt>
                           <p class="mh_title">暮光幻影</p>
                         </a>
                       </span>
@@ -153,7 +153,7 @@
                       <span class="img_tow_fi_5 cu">
                         <a href="#" target="_blank" title="测试数据一">
                             <div class="hoverChange ch7"></div>
-                            <img src="https://images.dmzj.com/tuijian/228_187/180815jiuxiangyaogenvpengyou.jpg" alt>
+                            <img src="../../assets/image/20180810232920.png" alt>
                             <p class="mh_title mh_titlemax">测试数据二</p>
                           </a>
                       </span>
@@ -164,7 +164,7 @@
                      <span class="img_one_i width-225 img_b cu">
                         <a href="#" target="_blank" title="测试数据一">
                           <div class="hoverChange img_b ch1"></div>
-                          <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt
+                          <img src="../../assets/image/20180810232920.png" alt
                                class="img_b">
                           <p class="mh_title">暮光幻影</p>
                         </a>
@@ -354,7 +354,7 @@
             <ul class="update_ul">
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -366,7 +366,7 @@
               </li>
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -378,7 +378,7 @@
               </li>
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -390,7 +390,7 @@
               </li>
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -402,7 +402,7 @@
               </li>
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -414,7 +414,7 @@
               </li>
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -437,7 +437,7 @@
             <ul class="update_ul">
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -449,7 +449,7 @@
               </li>
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -461,7 +461,7 @@
               </li>
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -473,7 +473,7 @@
               </li>
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -485,7 +485,7 @@
               </li>
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -497,7 +497,7 @@
               </li>
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -520,7 +520,7 @@
           <div class="youn_cn">
             <div class="youn_cn_b con_left">
               <a href="#" target="_blank" title="诛仙">
-                <img src="https://images.dmzj.com/tuijian/343_336/0810zuxian.jpg" alt>
+                <img src="../../assets/image/20180810232920.png" alt>
                 <span class="tip">
                     <p>更新至第18话 逃脱</p>
                   </span>
@@ -540,7 +540,7 @@
             <ul class="youn_con con_fir con_right">
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -552,7 +552,7 @@
               </li>
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -564,7 +564,7 @@
               </li>
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -576,7 +576,7 @@
               </li>
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -588,7 +588,7 @@
               </li>
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -600,7 +600,7 @@
               </li>
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -612,7 +612,7 @@
               </li>
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -624,7 +624,7 @@
               </li>
               <li>
                 <a href="#" target="_blank" title="极品透视小邪医">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -653,7 +653,7 @@
                 <sub></sub>
                 <em>01</em>
                 <a href="#">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt="暮光幻影">
+                  <img src="../../assets/image/20180810232920.png" alt="暮光幻影">
                 </a>
                 <span class="rank_first_con">
                     <a href="#" title="暮光幻影" target="_blank">
@@ -734,7 +734,7 @@
                 <sub></sub>
                 <em>01</em>
                 <a href="#">
-                  <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt="暮光幻影">
+                  <img src="../../assets/image/20180810232920.png" alt="暮光幻影">
                 </a>
                 <span class="rank_first_con">
                     <a href="#" title="暮光幻影" target="_blank">
@@ -821,7 +821,7 @@
             <div class="youn_cn">
               <div class="youn_cn_b con_left">
                 <a href="#" target="_blank" title="诛仙">
-                  <img src="https://images.dmzj.com/tuijian/343_336/0810zuxian.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第18话 逃脱</p>
                   </span>
@@ -841,7 +841,7 @@
               <ul class="youn_con con_fir con_right">
                 <li>
                   <a href="#" target="_blank" title="极品透视小邪医">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -853,7 +853,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="极品透视小邪医">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -865,7 +865,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="极品透视小邪医">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -877,7 +877,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="极品透视小邪医">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -889,7 +889,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="极品透视小邪医">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -901,7 +901,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="极品透视小邪医">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -913,7 +913,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="极品透视小邪医">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -925,7 +925,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="极品透视小邪医">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -954,7 +954,7 @@
                   <sub></sub>
                   <em>01</em>
                   <a href="#">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt="暮光幻影">
+                    <img src="../../assets/image/20180810232920.png" alt="暮光幻影">
                   </a>
                   <span class="rank_first_con">
                     <a href="#" title="暮光幻影" target="_blank">
@@ -1035,7 +1035,7 @@
                   <sub></sub>
                   <em>01</em>
                   <a href="#">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt="暮光幻影">
+                    <img src="../../assets/image/20180810232920.png" alt="暮光幻影">
                   </a>
                   <span class="rank_first_con">
                     <a href="#" title="暮光幻影" target="_blank">
@@ -1122,7 +1122,7 @@
             <div class="youn_cn">
               <div class="youn_cn_b con_left">
                 <a href="#" target="_blank" title="诛仙">
-                  <img src="https://images.dmzj.com/tuijian/343_336/0810zuxian.jpg" alt>
+                  <img src="../../assets/image/20180810232920.png" alt>
                   <span class="tip">
                     <p>更新至第18话 逃脱</p>
                   </span>
@@ -1142,7 +1142,7 @@
               <ul class="youn_con con_fir con_right">
                 <li>
                   <a href="#" target="_blank" title="极品透视小邪医">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -1154,7 +1154,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="极品透视小邪医">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -1166,7 +1166,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="极品透视小邪医">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -1178,7 +1178,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="极品透视小邪医">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -1190,7 +1190,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="极品透视小邪医">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -1202,7 +1202,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="极品透视小邪医">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -1214,7 +1214,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="极品透视小邪医">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -1226,7 +1226,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="极品透视小邪医">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                     <p>更新至第43话</p>
                   </span>
@@ -1255,7 +1255,7 @@
                   <sub></sub>
                   <em>01</em>
                   <a href="#">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt="暮光幻影">
+                    <img src="../../assets/image/20180810232920.png" alt="暮光幻影">
                   </a>
                   <span class="rank_first_con">
                     <a href="#" title="暮光幻影" target="_blank">
@@ -1336,7 +1336,7 @@
                   <sub></sub>
                   <em>01</em>
                   <a href="#">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt="暮光幻影">
+                    <img src="../../assets/image/20180810232920.png" alt="暮光幻影">
                   </a>
                   <span class="rank_first_con">
                     <a href="#" title="暮光幻影" target="_blank">
@@ -1431,7 +1431,7 @@
               <ul class="comic_con update_con">
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1443,7 +1443,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1455,7 +1455,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1467,7 +1467,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1479,7 +1479,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1491,7 +1491,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1503,7 +1503,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1515,7 +1515,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1527,7 +1527,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1539,7 +1539,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1551,7 +1551,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1563,169 +1563,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
-                    <span class="tip">
-                      <p>更新至第二次崩坏 第十八话 神谕</p>
-                    </span>
-                  </a>
-                  <p class="titles">
-                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
-                  </p>
-                  <p class="auth">上海米哈游</p>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="comic_classify_l con_left widthEigLeft" v-if="!true">
-            <ul class="comic_tabs tabs">
-              <li>
-                <a href="#" class="tab-option">冒险漫画</a>|
-              </li>
-              <li>
-                <a href="#" class="tab-option">搞笑漫画</a>|
-              </li>
-              <li>
-                <a href="#" class="tab-option">奇幻漫画</a>
-              </li>
-              <a href="#" target="_blank" class="more con_right" title="更多">MORE+</a>
-            </ul>
-            <div class="tab-content tab-content-selected autoHeight">
-              <ul class="comic_con update_con">
-                <li>
-                  <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
-                    <span class="tip">
-                      <p>更新至第二次崩坏 第十八话 神谕</p>
-                    </span>
-                  </a>
-                  <p class="titles">
-                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
-                  </p>
-                  <p class="auth">上海米哈游</p>
-                </li>
-                <li>
-                  <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
-                    <span class="tip">
-                      <p>更新至第二次崩坏 第十八话 神谕</p>
-                    </span>
-                  </a>
-                  <p class="titles">
-                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
-                  </p>
-                  <p class="auth">上海米哈游</p>
-                </li>
-                <li>
-                  <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
-                    <span class="tip">
-                      <p>更新至第二次崩坏 第十八话 神谕</p>
-                    </span>
-                  </a>
-                  <p class="titles">
-                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
-                  </p>
-                  <p class="auth">上海米哈游</p>
-                </li>
-                <li>
-                  <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
-                    <span class="tip">
-                      <p>更新至第二次崩坏 第十八话 神谕</p>
-                    </span>
-                  </a>
-                  <p class="titles">
-                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
-                  </p>
-                  <p class="auth">上海米哈游</p>
-                </li>
-                <li>
-                  <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
-                    <span class="tip">
-                      <p>更新至第二次崩坏 第十八话 神谕</p>
-                    </span>
-                  </a>
-                  <p class="titles">
-                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
-                  </p>
-                  <p class="auth">上海米哈游</p>
-                </li>
-                <li>
-                  <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
-                    <span class="tip">
-                      <p>更新至第二次崩坏 第十八话 神谕</p>
-                    </span>
-                  </a>
-                  <p class="titles">
-                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
-                  </p>
-                  <p class="auth">上海米哈游</p>
-                </li>
-                <li>
-                  <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
-                    <span class="tip">
-                      <p>更新至第二次崩坏 第十八话 神谕</p>
-                    </span>
-                  </a>
-                  <p class="titles">
-                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
-                  </p>
-                  <p class="auth">上海米哈游</p>
-                </li>
-                <li>
-                  <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
-                    <span class="tip">
-                      <p>更新至第二次崩坏 第十八话 神谕</p>
-                    </span>
-                  </a>
-                  <p class="titles">
-                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
-                  </p>
-                  <p class="auth">上海米哈游</p>
-                </li>
-                <li>
-                  <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
-                    <span class="tip">
-                      <p>更新至第二次崩坏 第十八话 神谕</p>
-                    </span>
-                  </a>
-                  <p class="titles">
-                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
-                  </p>
-                  <p class="auth">上海米哈游</p>
-                </li>
-                <li>
-                  <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
-                    <span class="tip">
-                      <p>更新至第二次崩坏 第十八话 神谕</p>
-                    </span>
-                  </a>
-                  <p class="titles">
-                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
-                  </p>
-                  <p class="auth">上海米哈游</p>
-                </li>
-                <li>
-                  <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
-                    <span class="tip">
-                      <p>更新至第二次崩坏 第十八话 神谕</p>
-                    </span>
-                  </a>
-                  <p class="titles">
-                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
-                  </p>
-                  <p class="auth">上海米哈游</p>
-                </li>
-                <li>
-                  <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1755,7 +1593,7 @@
               <ul class="comic_con update_con">
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1767,7 +1605,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1779,7 +1617,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1791,7 +1629,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1803,7 +1641,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1815,7 +1653,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1827,7 +1665,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1839,7 +1677,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1851,7 +1689,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1863,7 +1701,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1875,7 +1713,7 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1887,7 +1725,169 @@
                 </li>
                 <li>
                   <a href="#" target="_blank" title="崩坏3rd">
-                    <img src="https://images.dmzj.com/img/webpic/16/1017039361514025908.jpg" alt>
+                    <img src="../../assets/image/20180810232920.png" alt>
+                    <span class="tip">
+                      <p>更新至第二次崩坏 第十八话 神谕</p>
+                    </span>
+                  </a>
+                  <p class="titles">
+                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
+                  </p>
+                  <p class="auth">上海米哈游</p>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="comic_classify_l con_left widthEigLeft" v-if="!true">
+            <ul class="comic_tabs tabs">
+              <li>
+                <a href="#" class="tab-option">冒险漫画</a>|
+              </li>
+              <li>
+                <a href="#" class="tab-option">搞笑漫画</a>|
+              </li>
+              <li>
+                <a href="#" class="tab-option">奇幻漫画</a>
+              </li>
+              <a href="#" target="_blank" class="more con_right" title="更多">MORE+</a>
+            </ul>
+            <div class="tab-content tab-content-selected autoHeight">
+              <ul class="comic_con update_con">
+                <li>
+                  <a href="#" target="_blank" title="崩坏3rd">
+                    <img src="../../assets/image/20180810232920.png" alt>
+                    <span class="tip">
+                      <p>更新至第二次崩坏 第十八话 神谕</p>
+                    </span>
+                  </a>
+                  <p class="titles">
+                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
+                  </p>
+                  <p class="auth">上海米哈游</p>
+                </li>
+                <li>
+                  <a href="#" target="_blank" title="崩坏3rd">
+                    <img src="../../assets/image/20180810232920.png" alt>
+                    <span class="tip">
+                      <p>更新至第二次崩坏 第十八话 神谕</p>
+                    </span>
+                  </a>
+                  <p class="titles">
+                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
+                  </p>
+                  <p class="auth">上海米哈游</p>
+                </li>
+                <li>
+                  <a href="#" target="_blank" title="崩坏3rd">
+                    <img src="../../assets/image/20180810232920.png" alt>
+                    <span class="tip">
+                      <p>更新至第二次崩坏 第十八话 神谕</p>
+                    </span>
+                  </a>
+                  <p class="titles">
+                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
+                  </p>
+                  <p class="auth">上海米哈游</p>
+                </li>
+                <li>
+                  <a href="#" target="_blank" title="崩坏3rd">
+                    <img src="../../assets/image/20180810232920.png" alt>
+                    <span class="tip">
+                      <p>更新至第二次崩坏 第十八话 神谕</p>
+                    </span>
+                  </a>
+                  <p class="titles">
+                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
+                  </p>
+                  <p class="auth">上海米哈游</p>
+                </li>
+                <li>
+                  <a href="#" target="_blank" title="崩坏3rd">
+                    <img src="../../assets/image/20180810232920.png" alt>
+                    <span class="tip">
+                      <p>更新至第二次崩坏 第十八话 神谕</p>
+                    </span>
+                  </a>
+                  <p class="titles">
+                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
+                  </p>
+                  <p class="auth">上海米哈游</p>
+                </li>
+                <li>
+                  <a href="#" target="_blank" title="崩坏3rd">
+                    <img src="../../assets/image/20180810232920.png" alt>
+                    <span class="tip">
+                      <p>更新至第二次崩坏 第十八话 神谕</p>
+                    </span>
+                  </a>
+                  <p class="titles">
+                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
+                  </p>
+                  <p class="auth">上海米哈游</p>
+                </li>
+                <li>
+                  <a href="#" target="_blank" title="崩坏3rd">
+                    <img src="../../assets/image/20180810232920.png" alt>
+                    <span class="tip">
+                      <p>更新至第二次崩坏 第十八话 神谕</p>
+                    </span>
+                  </a>
+                  <p class="titles">
+                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
+                  </p>
+                  <p class="auth">上海米哈游</p>
+                </li>
+                <li>
+                  <a href="#" target="_blank" title="崩坏3rd">
+                    <img src="../../assets/image/20180810232920.png" alt>
+                    <span class="tip">
+                      <p>更新至第二次崩坏 第十八话 神谕</p>
+                    </span>
+                  </a>
+                  <p class="titles">
+                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
+                  </p>
+                  <p class="auth">上海米哈游</p>
+                </li>
+                <li>
+                  <a href="#" target="_blank" title="崩坏3rd">
+                    <img src="../../assets/image/20180810232920.png" alt>
+                    <span class="tip">
+                      <p>更新至第二次崩坏 第十八话 神谕</p>
+                    </span>
+                  </a>
+                  <p class="titles">
+                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
+                  </p>
+                  <p class="auth">上海米哈游</p>
+                </li>
+                <li>
+                  <a href="#" target="_blank" title="崩坏3rd">
+                    <img src="../../assets/image/20180810232920.png" alt>
+                    <span class="tip">
+                      <p>更新至第二次崩坏 第十八话 神谕</p>
+                    </span>
+                  </a>
+                  <p class="titles">
+                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
+                  </p>
+                  <p class="auth">上海米哈游</p>
+                </li>
+                <li>
+                  <a href="#" target="_blank" title="崩坏3rd">
+                    <img src="../../assets/image/20180810232920.png" alt>
+                    <span class="tip">
+                      <p>更新至第二次崩坏 第十八话 神谕</p>
+                    </span>
+                  </a>
+                  <p class="titles">
+                    <a href="#" title="崩坏3rd" target="_blank">崩坏3rd</a>
+                  </p>
+                  <p class="auth">上海米哈游</p>
+                </li>
+                <li>
+                  <a href="#" target="_blank" title="崩坏3rd">
+                    <img src="../../assets/image/20180810232920.png" alt>
                     <span class="tip">
                       <p>更新至第二次崩坏 第十八话 神谕</p>
                     </span>
@@ -1907,7 +1907,7 @@
                 <li>
                  <span class="v-img">
                     <a href="#" target="_blank" title="谁要当少女">
-                      <img src="https://images.dmzj.com/img/webpic/10/1003080301467620386.jpg" alt>
+                      <img src="../../assets/image/20180810232920.png" alt>
                     </a>
                  </span>
                   <span class="v_describe">
@@ -1923,7 +1923,7 @@
                 <li>
                  <span class="v-img">
                     <a href="#" target="_blank" title="谁要当少女">
-                      <img src="https://images.dmzj.com/img/webpic/10/1003080301467620386.jpg" alt>
+                      <img src="../../assets/image/20180810232920.png" alt>
                     </a>
                  </span>
                   <span class="v_describe">
@@ -1939,7 +1939,7 @@
                 <li>
                  <span class="v-img">
                     <a href="#" target="_blank" title="谁要当少女">
-                      <img src="https://images.dmzj.com/img/webpic/10/1003080301467620386.jpg" alt>
+                      <img src="../../assets/image/20180810232920.png" alt>
                     </a>
                  </span>
                   <span class="v_describe">
@@ -1955,7 +1955,7 @@
                 <li>
                  <span class="v-img">
                     <a href="#" target="_blank" title="谁要当少女">
-                      <img src="https://images.dmzj.com/img/webpic/10/1003080301467620386.jpg" alt>
+                      <img src="../../assets/image/20180810232920.png" alt>
                     </a>
                  </span>
                   <span class="v_describe">

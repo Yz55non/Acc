@@ -1,7 +1,7 @@
 <template>
   <div class="head-content">
     <div class="head-nav">
-      <a href="/">
+      <a href="#">
         <img src="../../assets/image/hander/logo-new.png" alt="" class="logo-img">
       </a>
       <div class="a-nav">
@@ -50,4 +50,3 @@
 <style scoped lang="less">
   @import "../../assets/css/header";
 </style>
-
