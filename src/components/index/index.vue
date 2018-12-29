@@ -186,7 +186,7 @@
                   <sub></sub>
                   <em>01</em>
                   <a href="#">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt="暮光幻影">
+                    <img src="../../assets/image/20180810232920.png" alt="暮光幻影">
                   </a>
                   <span class="rank_first_con">
                     <a href="#" title="暮光幻影" target="_blank">
@@ -267,7 +267,7 @@
                   <sub></sub>
                   <em>01</em>
                   <a href="#">
-                    <img src="https://images.dmzj.com/tuijian/330_376/180816muguanghuanying2.jpg" alt="暮光幻影">
+                    <img src="../../assets/image/20180810232920.png" alt="暮光幻影">
                   </a>
                   <span class="rank_first_con">
                     <a href="#" title="暮光幻影" target="_blank">
